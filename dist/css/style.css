@@ -19,4 +19,26 @@
   margin: auto;
 }
 
+.presentation{
+  position: absolute;
+  z-index: 999;
+  margin: auto;
+  font-weight: 400;
+  text-align: center;
+  margin-left: 42%;
+  margin-top: 16%;
+}
+
+h2{
+  color: white;
+  font-weight: 600;
+  font-size: 50px;
+}
+
+h5{
+  color: white;
+  font-style: italic;
+  font-size: 16px;
+}
+
 /*# sourceMappingURL=style.css.map */

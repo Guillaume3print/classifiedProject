@@ -19,7 +19,7 @@
   margin: auto;
 }
 
-.presentation{
+.presentation {
   position: absolute;
   z-index: 999;
   margin: auto;
@@ -29,13 +29,13 @@
   margin-top: 16%;
 }
 
-h2{
+h2 {
   color: white;
   font-weight: 600;
   font-size: 50px;
 }
 
-h5{
+h5 {
   color: white;
   font-style: italic;
   font-size: 16px;

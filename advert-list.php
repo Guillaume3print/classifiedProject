@@ -16,7 +16,7 @@ require_once(dirname(__FILE__) . "/components/navbar.php");
             <div class="card-body">
                 <h5 class="card-title"><?= $result["title"]; ?></h5>
                 <p class="card-text"><?= $result["description"]; ?></p>
-                <span><?= $result["username"] ?> - <?= $result["created_at"]; ?></span>
+                <span>Auteur - <?= $result["created_at"]; ?></span>
     
                 <a href="" class="btn btn-primary">Voir l'annonce</a>
             </div>

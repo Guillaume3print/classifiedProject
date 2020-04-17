@@ -10,11 +10,9 @@ require_once(dirname(__FILE__) . "/components/navbar.php");
 
 <!-- Petit encart de bienvenu -->
 <div class="presentation">
-<center>
 <h2>Bienvenue !</h2>
-<h4>Ici on aide ceux qui ont du mal</h4>
-<button type="button" class="btn btn-light">Voir les propositions</button>
-<center>
+<h5>Ici on aide ceux qui ont du mal</h5>
+<button type="button" class="btn btn-light" href="http://localhost:8888/classifiedProject/advert-list.php">Voir les propositions</button>
 
 </div>
 <div id="carouselExampleInterval" class="carousel slide" data-ride="carousel">
